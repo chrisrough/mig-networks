@@ -1,11 +1,11 @@
 terraform {
 
   // see https://developer.hashicorp.com/terraform/cloud-docs/workspaces/state
-  //*
+  /*
   backend "local" {
     // path = "backend/terraform.tfstate"
   }
-  // */
+  */
 
   required_providers {
     tos = {
