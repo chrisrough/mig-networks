@@ -5,7 +5,6 @@ provider "registry.terraform.io/scs-tufin/tos" {
   version     = "1.0.26"
   constraints = ">= 1.0.25"
   hashes = [
-    "h1:OfCVx25An19iSdFYaNa55Y07WxhKNNQ8qa64ImXRPhw=",
     "h1:h/Fl10oaH/RuswXCiv8U1tsJnCL4YxMhOZ14RaxDpLA=",
     "zh:064ce7f77183cc3b095a76f60092ca4ba2ea3c8acb8bcfc8fdfc7515b27299c9",
     "zh:6a6f621984a7016f4352ac73996526f29a527c18561ac927bce0343665c0971c",
