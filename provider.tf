@@ -7,6 +7,14 @@ terraform {
   }
   */
 
+  cloud {
+    organization = "Swisscom-Schweiz-AG"
+
+    workspaces {
+      name = "mig-networks"
+    }
+  }
+
   required_providers {
     tos = {
       source  = "SCS-Tufin/tos"
