@@ -8,7 +8,6 @@ terraform {
   */
 
   // Terraform Cloud Migration
-  /*
   cloud {
     organization = "Swisscom-Schweiz-AG"
 
@@ -16,7 +15,6 @@ terraform {
       name = "mig-networks"
     }
   }
-  */
 
   required_providers {
     tos = {
