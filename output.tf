@@ -1,5 +1,6 @@
 # show all zones
 
+/*
 # --- ora
 output "ora-prd_outside_dco" {
   value = data.tos_zones.ora-prd_outside_dco
@@ -59,3 +60,4 @@ output "red-opn_outside_dco" {
 output "red-opn_outside_uco" {
   value = data.tos_zones.red-opn_outside_uco
 }
+*/
