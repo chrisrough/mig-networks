@@ -51,6 +51,7 @@ variable "subnet_list_ora-opn_outside_dco" {
   type        = list(string)
   default     = [
     "10.98.180.0/24",
+    "10.98.181.0/24",
   ]
 }
 variable "subnet_list_ora-prd_outside_uco" {
